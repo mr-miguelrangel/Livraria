@@ -1,0 +1,39 @@
+
+
+1 - Matemática
+
+  O intuito é transmitir ao leitor uma ideia da utilidade do cálculo, assim como promover o desenvolvimento
+  de sua habilidade técnica. Ao mesmo tempo, os autores empenharam-se em valorizar a beleza intrínseca do
+  assunto. Não há dúvida de que Newton experimentou uma sensação de triunfo quando fez suas grandes
+  descobertas. O objetivo desta obra é fazer que os estudantes compartilhem um pouco desse entusiasmo.
+
+2 - Probabilidade e Estatística
+
+  Este livro apresenta a estatística e a probabilidade sob o ponto de vista da engenharia e de outras áreas
+  das ciências exatas. A abordagem é bastante didática, apresentando os conceitos de maneira abrangente e
+  profunda por meio de uma sequência lógica e direta, material gráfico e exemplos e exercícios que auxiliam
+  na aprendizagem.
+
+3 - Física
+
+  Este curso universitário de Física Básica destina-se aos estudantes de Engenharia, Física, Matemática,
+  Química e áreas correlatas. O objetivo é apresentar uma discussão detalhada e cuidadosa sobre os conceitos
+  e princípios básicos da Física, com ênfase na compreensão das ideias fundamentais.
+
+4 - Química
+
+  Princípios de Química: questionando a vida moderna e o meio ambiente, sétima edição, apresenta todos os
+  fundamentos da química de forma clara e precisa, utilizando inúmeras ferramentas pedagógicas. O conteúdo
+  está organizado em 85 tópicos curtos, distribuídos em 11 grupos temáticos. Esta divisão tornou o texto muito
+  flexível e adaptável aos objetivos específicos de cada professor, permitindo a omissão de tópicos ou a ordenação 
+  dos conteúdos de acordo com o seu plano de ensino.
+
+5 - Computação
+
+  Conhecido por oferecer uma cobertura ampla e uma clara exposição do vasto e dinâmico campo da ciência da
+  computação, o livro mais conhecido da área chega à décima primeira edição atualizado e ampliado para incluir
+  as tecnologias mais atuais. Entre elas, destacam-se os dispositivos móveis, como os smartphones, e as
+  relacionadas à Engenharia de Software e à Inteligência Artificial. Escrito em linguagem acessível a alunos de 
+  todos os cursos, Ciência da computação: uma visão abrangente incentiva o desenvolvimento de uma compreensão
+  prática e realista da área.
+
